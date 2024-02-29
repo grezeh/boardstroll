@@ -1,2 +1,2 @@
 # boardstroll
-column stagger keyboard experiment
+Column stagger, modular keyboard experiment
